@@ -6,4 +6,7 @@ public class test {
     int k=3;
     int l=4;
     int m=5;
+    String a="hello";
+    String b="world";
+
 }
